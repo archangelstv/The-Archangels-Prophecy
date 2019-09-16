@@ -3,7 +3,7 @@ layout: page-classic-sidebar-left
 featimg: 6.jpg
 title: Page
 ---
-## This is a static page with a classic sidebar on the left
+
 
                            The Belicamp
 
