@@ -3,10 +3,18 @@ layout: page-classic-sidebar-right
 featimg: 6.jpg
 title: Page
 ---
-## This is a static page with a classic sidebar on the right
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
 
-Modi consequuntur, ex, quod optio perferendis delectus libero excepturi recusandae, odio earum consectetur obcaecati repellat atque natus dignissimos quidem laboriosam nisi est? Hic ex ullam aspernatur perferendis doloremque odit eius nostrum cumque repudiandae sapiente culpa voluptate qui quasi, nulla dolorum facilis ab.
+           Archangel Michael Just a word
+There are many more Angels than people. We are Watchers, we don't interfere. 
+There are a great many of us all over the Earth.
+The wings of the small ones are much larger than depicted. 
+We exist in many realms at the same time.
 
-Excepturi atque fuga illum fugiat consequatur, obcaecati, quaerat voluptatibus! Consequuntur ut dolore impedit magni officiis a voluptatibus odio, assumenda obcaecati illo reprehenderit veniam totam dolorem optio iure eius corporis aspernatur inventore quia perspiciatis placeat ratione repellat! Voluptatem.
+Humans are only one of many species here on this planet.
+Many are bad and attack  the people here.
+This world is destine for death. 
+It is the only way to destroy the evil here. 
+The Angels just leave. It the humans can't then they also die. 
+We can't transport their bodies, there is simply no way. 
+Star Gates or Time Travel can only transport spirits not the bodies of this dimension. 
