@@ -1,6 +1,6 @@
 ---
 layout: page-classic-sidebar-left
-featimg: 6.jpg
+featimg: 9.jpg
 title: Page
 ---
 
