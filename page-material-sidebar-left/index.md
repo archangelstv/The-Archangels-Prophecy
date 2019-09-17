@@ -24,7 +24,7 @@ Then when the time is right
 America finds their demise
 
 America blames the wrong one
-Then Retrobution
+Then Retribution
 
 No one on our side can believe the Americans are so dumb
 They are either dead or greatly saddened 
