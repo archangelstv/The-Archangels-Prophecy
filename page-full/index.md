@@ -1,12 +1,18 @@
 ---
 layout: page-full
-featimg: 6.jpg
+featimg:8.jpg
 title: Page
 ---
-## This is a full-width static page
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
 
-Modi consequuntur, ex, quod optio perferendis delectus libero excepturi recusandae, odio earum consectetur obcaecati repellat atque natus dignissimos quidem laboriosam nisi est? Hic ex ullam aspernatur perferendis doloremque odit eius nostrum cumque repudiandae sapiente culpa voluptate qui quasi, nulla dolorum facilis ab.
+                                       Wormholes
+                                As told by Archangel Michael
+                                   We Travel Through Them
 
-Excepturi atque fuga illum fugiat consequatur, obcaecati, quaerat voluptatibus! Consequuntur ut dolore impedit magni officiis a voluptatibus odio, assumenda obcaecati illo reprehenderit veniam totam dolorem optio iure eius corporis aspernatur inventore quia perspiciatis placeat ratione repellat! Voluptatem.
+Your people might be interested to know that there is a wormhole approximately 81,621 miles above your planet.
+
+Also there are other wormholes from star to star if theya are close enough.
+
+The one from Orion to here is easily found. It would take only four days to get there.
+
+Wormholes are upsidedown inside They are at a 75 degree angle The gravity within them exceeds 90% If you've never been inside one, They are winding Going from side to side and up and down You travel along the inside edge, not through the middle You can't see through the wall of it Time doesn't pass while inside
