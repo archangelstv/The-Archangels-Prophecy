@@ -3,7 +3,6 @@ layout: page-material-sidebar-left
 featimg: 6.jpg
 title: Page
 ---
-## This is a static page with a material sidebar on the right
 
               It's the Camel Not the Burro
 
