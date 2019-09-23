@@ -1,9 +1,9 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Archangels TV
+description: Prophecy of the Archangels
 destination: jekyllbuild
 url: #place url
-baseurl: #place folder name if site is served in subfolder
+baseurl: /home/larry/Desktop/architect-master #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -17,12 +17,7 @@ media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
 tumblr: "#"
 pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+mumudvb: "#"
 
 encoding: utf-8
 defaults:
@@ -86,10 +81,8 @@ prose:
               value: "gallery"
             - name: "Audio"
               value: "audio"
-            - name: "YouTube"
-              value: "youtube"
-            - name: "Vimeo"
-              value: "vimeo"
+             - name: "Mumudvb"
+              value: "mumudvb"
       - name: "homedisplay"
         field:
           element: "select"
@@ -100,24 +93,14 @@ prose:
               value: "featimg"
             - name: "Embedded Element"
               value: "iframe"
-      - name: "vimeo-embed"
+      - name: "mumudvb-embed"
         field:
           element: "text"
-          label: "Vimeo Embedding Code"
+          label: "Mumudvb Embedding Code"
           help: "Set post type to vimeo in order for this to work"
       - name: "gallery-id"
         field:
           element: "text"
           label: "Gallery ID"
           help: "ID of the gallery defined within _data/galleries.yml - use include in content to use"
-      - name: "audio-embed"
-        field:
-          element: "text"
-          label: "Audio Embedding Code"
-          help: "Set post type to audio in order for this to work"
-      - name: "yt-video-id"
-        field:
-          element: "text"
-          label: "YouTube Video ID"
-          help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
-          type: "text"
+      
