@@ -1,16 +1,13 @@
 ---
 author: someone
-layout: post-full
+layout: post
 type: youtube
 yt-video-id: E802ZnXbnFY
 homedisplay: iframe
-title: YouTube full
+title: YouTube 
 tags: [video, iframe]
 category: [video]
 ---
-This youtube video uses the iframe instead of the thumbnail image on the index pages.
-
-For a YouTube video, no embedding code is required, it all works through the video ID.
 
 ```yml
 ---
