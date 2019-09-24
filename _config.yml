@@ -1,9 +1,9 @@
 full_rebuild: true
-name: Gridster
-description:the material experience for jekyll
+name: Archangels TV
+description: Prophecy of the Archangels
 destination: jekyllbuild
-url: #place url
-baseurl: /home/larry/Desktop/architect-master #place folder name if site is served in subfolder
+url: archangelstv.org #place url
+baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -17,7 +17,12 @@ media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
 tumblr: "#"
 pinterest: "#"
+instagram: "#"
+twitter: "#"
+facebook: "#"
+youtube: "#"
 mumudvb: "#"
+soundcloud: "#"
 
 encoding: utf-8
 defaults:
@@ -79,6 +84,10 @@ prose:
               value: "image"
             - name: "Gallery"
               value: "gallery"
+            - name: "Audio"
+              value: "audio"
+            - name: "YouTube"
+              value: "youtube"
             - name: "Mumudvb"
               value: "mumudvb"
       - name: "homedisplay"
