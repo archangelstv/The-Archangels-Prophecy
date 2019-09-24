@@ -44,7 +44,7 @@ The Belicamp is the Demon of the Father
 Wae salk along rthe river
 Iwalkwalk ahead and and encounter a belicamp
 
-he stoops close to the groundand eats
+He stoops close to the groundand eats
 New life has sprung fround the ground
 I am no more than twelve feet away
 He ate next to the riverand paid me no mind
