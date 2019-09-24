@@ -79,9 +79,7 @@ prose:
               value: "image"
             - name: "Gallery"
               value: "gallery"
-            - name: "Audio"
-              value: "audio"
-             - name: "Mumudvb"
+            - name: "Mumudvb"
               value: "mumudvb"
       - name: "homedisplay"
         field:
