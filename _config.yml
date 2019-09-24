@@ -96,8 +96,6 @@ prose:
           label: "Home Display"
           help: "decide whether to display embedded element (for post types: audio, youtube, vimeo) or Featured Image on home page"
           options:
-            - name: "Featured Image"
-              value: "featimg"
             - name: "Embedded Element"
               value: "iframe"
       - name: "mumudvb-embed"
