@@ -2,7 +2,7 @@
 layout: index-full
 description: the good site of life
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
     {% include article_index.html %}
 {% endfor %}
 
