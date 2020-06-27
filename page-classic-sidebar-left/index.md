@@ -33,7 +33,7 @@ Call on the Father, call on the Angels
 Your cries fall on death ears
 For this is the land of the dead
 
-and it is so saith the Lord
+And it is so saith the Lord
 For a great death comes from the sky
 The Belicamp, the Belicamp, the e;icamp
 Pray for the Lord and the Magician
@@ -41,7 +41,7 @@ Pray for the Lord and the Magician
 The Father has sent the Belicamp to stop them
 The Belicamp is the Demon of the Father
 
-Wae salk along rthe river
+We walk along rthe river
 Iwalkwalk ahead and and encounter a belicamp
 
 He stoops close to the groundand eats
